@@ -9,13 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 　- github name:clgujiuji
 　- 学校：開志専門職大学
 　- 専門：情報
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clgujiugji/clgujiguji.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 所属
+    - 情報学部
+- 場所
+    - 開志専門職大学 米山キャンパス
+    - Y505
