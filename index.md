@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 概要
 - 基本情報
-　github name:clgujiuji
-　学校：開志専門職大学
-　専門：情報
+　- github name:clgujiuji
+　- 学校：開志専門職大学
+　- 専門：情報
 
 
 
