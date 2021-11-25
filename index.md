@@ -9,4 +9,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     - github name:clgujiuji
     - 学校：開志専門職大学
     - 専門：情報
+![big_main10005938_20181003180627000000](https://user-images.githubusercontent.com/91709559/143390808-12d61c2e-59a9-4e50-a7c3-8ade8a37b50a.jpeg)
 
