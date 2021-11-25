@@ -11,6 +11,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 　- 専門：情報
 - 所属
     - 情報学部
-- 場所
-    - 開志専門職大学 米山キャンパス
-    - Y505
+
